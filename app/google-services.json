@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "432694512223",
+    "project_id": "maguandza-9ccc9",
+    "storage_bucket": "maguandza-9ccc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432694512223:android:0abe76a808d38f0a1129ea",
+        "android_client_info": {
+          "package_name": "com.gsmmoz.maguandza.maguandza.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432694512223-htnukclov1fgva2ipkh15l706o8dktad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gsmmoz.maguandza.maguandza.online",
+            "certificate_hash": "c75b3ae9bc67062b8abc0b0946a425bc2b1a17d7"
+          }
+        },
+        {
+          "client_id": "432694512223-fjsn83quk7h6vg1arm13qbh3j0q1raj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuM_f0mC4NF2zqGVwvNQUVnOmiDGA5qrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432694512223-fjsn83quk7h6vg1arm13qbh3j0q1raj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
